@@ -1,15 +1,56 @@
 # Design Thinking
 
-## Golden Circle
-- **Por quê?** Promover a saúde mental
-- **Como?** Criando um app de rotinas e suporte
-- **O quê?** Um app que incentiva desconexão consciente
+## 1. Golden Circle
+### Por quê?
+*Nosso projeto busca resolver...*
 
-## SWOT
-(Ver imagem swot.png)
+### Como?
+*A solução será diferente porque...*
 
-## Personas
-(Ver imagem personas.png)
+### O quê?
+*O aplicativo entregará...*
 
-## Brainstorming
-Link: [Ideação no Notion](https://notion.so/exemplo)
+---
+
+## 2. Análise SWOT
+![SWOT](analise_swot.png)
+
+---
+
+## 3. Soluções Existentes
+
+### App 1 – MedSaúde
+![App 1](solucoes_existentes/app1.png)
+
+- Público-alvo: ...
+- Funcionalidade: ...
+
+### App 2 – SaúdeMais
+![App 2](solucoes_existentes/app2.png)
+
+- Público-alvo: ...
+- Funcionalidade: ...
+
+### Quadro Comparativo
+| App | Público-alvo | Pontos Fortes | Pontos Fracos |
+|-----|---------------|----------------|----------------|
+| ... | ...           | ...            | ...            |
+
+---
+
+## 4. Personas
+
+### Persona 1 – João
+![João](personas/persona1.png)
+
+- Idade: ...
+- Objetivo: ...
+
+...
+
+---
+
+## 5. Ideação (Brainstorming)
+
+Acesse o link do Notion com nossas ideias:  
+👉 [Clique aqui para ver o brainstorming](https://notion.so/link-do-brainstorming)
