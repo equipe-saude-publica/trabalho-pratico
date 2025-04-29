@@ -1,56 +1,66 @@
 # Design Thinking
 
 ## 1. Golden Circle
+
 ### Por quê?
-*Nosso projeto busca resolver...*
+(Descreva o problema ou dor social)
 
 ### Como?
-*A solução será diferente porque...*
+(Como a solução será diferente/inovadora)
 
 ### O quê?
-*O aplicativo entregará...*
+(Descreva a solução final: app, plataforma, site, etc.)
 
 ---
 
 ## 2. Análise SWOT
-![SWOT](analise_swot.png)
+
+![Análise SWOT](analise_swot.png)
 
 ---
 
-## 3. Soluções Existentes
+## 3. Identificação Visual de Soluções Existentes
 
-### App 1 – MedSaúde
+### Aplicativo 1 – Nome
 ![App 1](solucoes_existentes/app1.png)
+- Público-alvo:
+- Funcionalidade principal:
 
-- Público-alvo: ...
-- Funcionalidade: ...
-
-### App 2 – SaúdeMais
+### Aplicativo 2 – Nome
 ![App 2](solucoes_existentes/app2.png)
+- Público-alvo:
+- Funcionalidade principal:
 
-- Público-alvo: ...
-- Funcionalidade: ...
-
-### Quadro Comparativo
-| App | Público-alvo | Pontos Fortes | Pontos Fracos |
-|-----|---------------|----------------|----------------|
-| ... | ...           | ...            | ...            |
-
----
-
-## 4. Personas
-
-### Persona 1 – João
-![João](personas/persona1.png)
-
-- Idade: ...
-- Objetivo: ...
-
-...
+### Aplicativo 3 – Nome
+![App 3](solucoes_existentes/app3.png)
+- Público-alvo:
+- Funcionalidade principal:
 
 ---
 
-## 5. Ideação (Brainstorming)
+## 4. Quadro Comparativo
 
-Acesse o link do Notion com nossas ideias:  
-👉 [Clique aqui para ver o brainstorming](https://notion.so/link-do-brainstorming)
+| App             | Modelo de Negócio | Tecnologia | Público-alvo | Pontos Fortes | Pontos Fracos |
+|----------------|-------------------|------------|---------------|----------------|----------------|
+| App 1          | Freemium          | Android    | ...           | ...            | ...            |
+| App 2          | ...               | ...        | ...           | ...            | ...            |
+
+---
+
+## 5. Personas
+
+### Persona 1 – Nome
+![Persona 1](personas/persona1.png)
+- Idade:
+- Objetivo:
+- Comportamento:
+- Desafios:
+
+(Repita para Persona 2 e 3)
+
+---
+
+## 6. Ideação (Brainstorming)
+
+Acesse o brainstorming com as ideias iniciais de cada integrante:  
+👉 [Link público do Notion](https://notion.so/seulink)
