@@ -3,11 +3,15 @@
 ## 1. Golden Circle
 
 ### Por quê?
-(Descreva o problema ou dor social)
+O uso excessivo da tecnologia, principalmente redes sociais e ferramentas de IA, tem gerado impactos negativos na saúde mental das pessoas. Muitos usuários estão perdendo a criatividade, foco, capacidade de interação e interesse por atividades reais. O objetivo do projeto é criar um aplicativo que ajude essas pessoas a reconectar-se com o mundo real e consigo mesmas, promovendo bem-estar, rotina saudável e consciência digital.
 
 ### Como?
-(Como a solução será diferente/inovadora)
-
+Criando um aplicativo que ofereça:
+- Sugestões de atividades mentais, criativas e físicas que incentivem o uso consciente da tecnologia.
+- Um sistema de rotina com tarefas diárias e desafios semanais para promover hábitos saudáveis.
+- Uma comunidade interativa onde os usuários compartilham progresso e atividades.
+- Monitoramento de uso digital, com alertas e relatórios de uso excessivo.
+  
 ### O quê?
 (Descreva a solução final: app, plataforma, site, etc.)
 
