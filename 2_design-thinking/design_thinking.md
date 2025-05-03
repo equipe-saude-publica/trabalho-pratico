@@ -13,15 +13,13 @@ Criando um aplicativo que ofereça:
 - Monitoramento de uso digital, com alertas e relatórios de uso excessivo.
   
 ### O quê?
-(Descreva a solução final: app, plataforma, site, etc.)
+Um aplicativo móvel chamado **ReConectar**, voltado à saúde mental, que atua como um guia de rotina e recuperação da criatividade, através de atividades práticas, desafios, rede de apoio e monitoramento do comportamento digital.
 
----
 
 ## 2. Análise SWOT
 
-![Análise SWOT](analise_swot.png)
+![Análise SWOT](https://github.com/user-attachments/assets/ecf03e61-41cb-4e43-8b37-f2457bb67ced)
 
----
 
 ## 3. Identificação Visual de Soluções Existentes
 
