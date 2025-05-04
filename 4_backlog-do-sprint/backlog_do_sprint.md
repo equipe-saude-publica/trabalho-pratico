@@ -8,4 +8,4 @@ O Backlog do Sprint acompanha as tarefas distribuídas entre os integrantes do g
 
 ---
 ## Link das Dailys no Notion
-👉 [Dailys registradas aqui](https://www.notion.so/Daily-Scrum-1e8fb754c1f68089aae1dbad61a28f29?pvs=4)
+👉 [Dailys registradas aqui](https://www.notion.so/Daily-Scrum-1e8fb754c1f680ec856cf5c2d50f47be?pvs=4)
