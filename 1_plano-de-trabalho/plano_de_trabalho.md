@@ -191,7 +191,7 @@ Solicitações de mudança deverão ser discutidas em reunião de sprint plannin
 
 ---
 
-**OBS**: Os campos com nomes, datas e matrículas devem ser editados diretamente por vocês no repositório.
+
 
 
 
