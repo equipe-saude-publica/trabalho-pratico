@@ -50,33 +50,32 @@
 ---
 
 # Índice
-## 1, Introdução
+## 1. Introdução
+A saúde mental tem se tornado um tema cada vez mais discutido diante do ritmo acelerado da vida moderna e do crescente uso de tecnologias digitais, que embora ofereçam facilidades, também contribuem para quadros de ansiedade, procrastinação e bloqueios criativos. O presente projeto propõe o desenvolvimento de um aplicativo móvel voltado à saúde mental e ao bem-estar, oferecendo aos usuários um espaço de apoio e reconexão consigo mesmos por meio de atividades práticas, desafios criativos, monitoramento digital e incentivo à rotina saudável.
 
-
-### 1.1 Objeto
+## 1.1 Objeto
 
 O projeto consiste no desenvolvimento de um aplicativo móvel chamado **ReConectar**, voltado à saúde mental, que atua como guia de rotina e recuperação da criatividade, através de atividades práticas, desafios, rede de apoio e monitoramento do comportamento digital.
 
-### 1.2 Motivação, Justificativa e Oportunidade
+## 1.2 Motivação, Justificativa e Oportunidade
 
 O uso excessivo da tecnologia tem gerado impactos negativos na saúde mental das pessoas, com perda de criatividade, foco e interesse por atividades reais. A proposta do ReConectar é criar uma solução acessível que ajude usuários a se reconectar com o mundo real e consigo mesmos, promovendo bem-estar, consciência digital e hábitos saudáveis.
 
-### 1.3 Caracterização do Projeto
+## 1.3 Caracterização do Projeto
 
-#### 1.3.1 Classe
+### 1.3.1 Classe
 
 | Classe           | Detalhamento                                                              |
 |------------------|---------------------------------------------------------------------------|
 | Aplicativo Móvel | Um app para Android/iOS voltado à saúde mental, com foco em criatividade e reconexão com o mundo real. |
 
-#### 1.3.2 Enquadrabilidade
+### 1.3.2 Enquadrabilidade
 
 | Enquadrabilidade  | Detalhamento                                                                 |
 |-------------------|------------------------------------------------------------------------------|
-| Trabalho Acadêmico | Projeto desenvolvido no contexto da disciplina de Engenharia de Software I. |
-| Open Source        | Disponibilizado no GitHub com licença aberta para fins educacionais.         |
+| Software Educacional | O aplicativo será desenvolvido como parte de um projeto acadêmico, com foco em promover saúde mental e bem-estar digital, podendo ser utilizado em ambientes educacionais como apoio à construção de rotinas saudáveis e desenvolvimento pessoal. |
 
-#### 1.3.3 Tipo
+### 1.3.3 Tipo
 
 | Tipo                    | Detalhamento                                                              |
 |-------------------------|---------------------------------------------------------------------------|
@@ -84,13 +83,13 @@ O uso excessivo da tecnologia tem gerado impactos negativos na saúde mental das
 
 ---
 
-## 2. INFORMAÇÕES GERAIS
+# 2. INFORMAÇÕES GERAIS
 
-### 2.1 Escopo Geral
+## 2.1 Escopo Geral
 
 Desenvolvimento de um aplicativo móvel que oferece suporte à saúde mental através de sugestões de atividades, monitoramento do uso digital, rotina de desafios e espaço comunitário.
 
-### 2.1.1 Escopo Específico
+## 2.1.1 Escopo Específico
 
 - Sugestões de atividades criativas, físicas e de relaxamento
 - Sistema de rotina com tarefas diárias e desafios semanais
@@ -98,13 +97,13 @@ Desenvolvimento de um aplicativo móvel que oferece suporte à saúde mental atr
 - Relatórios de uso digital e alertas personalizados
 - Sistema de gamificação e recompensas
 
-### 2.1.2 Escopo Negativo
+## 2.1.2 Escopo Negativo
 
 - O app não terá integração com redes sociais externas
 - Não incluirá funcionalidades de inteligência artificial preditiva
 - Não será desenvolvida uma versão web do sistema
 
-### 2.2 Ambiente de Desenvolvimento
+## 2.2 Ambiente de Desenvolvimento
 
 | Componente              | Tecnologia/Ferramenta       |
 |-------------------------|-----------------------------|
@@ -112,15 +111,14 @@ Desenvolvimento de um aplicativo móvel que oferece suporte à saúde mental atr
 | Gerenciamento de Backlog| GitHub Projects             |
 | Repositório de Código   | GitHub                      |
 | Modelagem de Software   | Figma, Draw.io              |
-| Desenvolvimento MVP     | Planejado com Flutter       |
 
-### 2.3 Características Inovadoras do Projeto
+## 2.3 Características Inovadoras do Projeto
 
 - Combinação de monitoramento digital com incentivo à criatividade
 - Comunidade interna para apoio mútuo
 - Proposta educativa e preventiva voltada ao uso consciente da tecnologia
 
-### 2.4 Resultados Esperados
+## 2.4 Resultados Esperados
 
 - MVP funcional disponível no GitHub
 - Interface intuitiva e adaptável
@@ -128,10 +126,11 @@ Desenvolvimento de um aplicativo móvel que oferece suporte à saúde mental atr
 - Redução do tempo de tela e aumento de bem-estar dos usuários
 
 ---
+AJUSTAR DAQUI PRA BAIXO!!!!!
 
-## 3. METODOLOGIA DE PROJETO
+# 3. METODOLOGIA DE PROJETO
 
-### 3.1 Estrutura do Projeto
+## 3.1 Estrutura do Projeto
 
 **Fases do Projeto:**
 
@@ -157,7 +156,7 @@ Desenvolvimento de um aplicativo móvel que oferece suporte à saúde mental atr
    - Codificação inicial em Flutter
    - Testes com usuários e melhorias
 
-### 3.2 Equipe de Projeto: Papéis e Responsabilidades
+## 3.2 Equipe de Projeto: Papéis e Responsabilidades
 
 | Integrante       | Papel                | Responsabilidades                                  |
 |------------------|----------------------|----------------------------------------------------|
@@ -166,15 +165,15 @@ Desenvolvimento de um aplicativo móvel que oferece suporte à saúde mental atr
 | Pedro Costa      | Desenvolvedor        | Implementação do código                            |
 | Ana Souza        | Designer/Tester      | Prototipação e testes com usuários                 |
 
-### 3.3 Backlog do Sprint
+## 3.3 Backlog do Sprint
 
 Será gerenciado pelo GitHub Projects, com histórias de usuário organizadas em sprints quinzenais. Cada sprint entregará funcionalidades incrementais do MVP.
 
-### 3.4 Controle de Mudanças
+## 3.4 Controle de Mudanças
 
 Solicitações de mudança deverão ser discutidas em reunião de sprint planning e aprovadas pelo grupo antes de serem incluídas no backlog. Toda alteração será documentada no GitHub.
 
-### 3.5 Gerenciamento de Comunicação
+## 3.5 Gerenciamento de Comunicação
 
 - **Sprint Planning**: toda segunda-feira, reunião via Google Meet
 - **Daily Stand-up**: mensagens curtas no grupo do WhatsApp às 9h
