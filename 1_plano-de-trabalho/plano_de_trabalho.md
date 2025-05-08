@@ -43,13 +43,15 @@
 | Versão | Descrição                          | Autor                                       | Data     |
 |--------|------------------------------------|---------------------------------------------|-------   |
 |1.0     | Elaboração do Plano de Trabalho                  | Severino Souza |05/05/2025|
-|1.0     | Criação do Design Thinking (Inspiração e Ideação)                | exemplo                 |xx/xx/xxxx|
-|1.0     | xxxxx    | exemplo                         |xx/xx/xxxx|
-|1.0     | Criação do Backlog          | exemplo                       |xx/xx/xxxx|
-|1.0     | Backlog do Sprint                  | exemplo    |xx/xx/xxxx|
+|1.0     | Criação do Design Thinking (Inspiração e Ideação)                | Severino Souza                |03/05/2025|
+|1.0     | xxxxx    | Nomes                         |xx/xx/xxxx|
+|1.0     | Criação do Backlog          | Nomes                       |xx/xx/xxxx|
+|1.0     | Backlog do Sprint                  | Nomes    |xx/xx/xxxx|
 ---
 
-## 1. INTRODUÇÃO
+# Índice
+## 1, Introdução
+
 
 ### 1.1 Objeto
 
