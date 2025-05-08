@@ -41,7 +41,7 @@
 
 | Versão | Descrição                          | Autor                                       | Data     |
 |--------|------------------------------------|---------------------------------------------|-------   |
-|1.0     | Elaboração do Plano de Trabalho                  | Exemplo |xx/xx/xxxx|
+|1.0     | Elaboração do Plano de Trabalho                  | Severino Souza |05/05/2025|
 |1.0     | Criação do Design Thinking (Inspiração e Ideação)                | exemplo                 |xx/xx/xxxx|
 |1.0     | xxxxx    | exemplo                         |xx/xx/xxxx|
 |1.0     | Criação do Backlog          | exemplo                       |xx/xx/xxxx|
