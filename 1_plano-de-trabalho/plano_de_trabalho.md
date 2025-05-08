@@ -1,14 +1,15 @@
 # PLANO DE TRABALHO
 
-**Nome do Projeto:** ReConectar – Aplicativo de Bem-Estar Digital e Criatividade  
-**Codinome:** ReCon  
-**Versão:** 1.0  
-**Status:** Em desenvolvimento  
-**Número de Controle SRBR-M:** 2025-001  
-**Executor Principal:** Equipe ReConectar  
-**Coordenador do Projeto:** Prof. Dr. Andrey Rodrigues
+| Nome do Projeto | ReConectar | 
+|-----------------|-------------|
+| Codinome | ReCon | 
+| Versão | 1.0  |
+| Status | Em desenvolvimento  |
+| Número de Controle SRBR-M | 2025-001  |
+| Executor Principal | Equipe ReConectar  |
+| Coordenador do Projeto | Prof. Dr. Andrey Rodrigues |
 
----
+
 
 ## SUMÁRIO
 
