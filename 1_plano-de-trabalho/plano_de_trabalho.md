@@ -37,25 +37,15 @@
 
 ---
 
-
-# PLANO DE TRABALHO
-
-**Nome do Projeto:** ReConectar – Aplicativo de Bem-Estar Digital e Criatividade  
-**Codinome:** ReCon  
-**Versão:** 1.0  
-**Status:** Em desenvolvimento  
-**Número de Controle SRBR-M:** 2025-001  
-**Executor Principal:** Equipe ReConectar  
-**Coordenador do Projeto:** Prof. Dr. Andrey Rodrigues
-
----
-
 ## HISTÓRICO DE VERSÕES
 
-| Versão | Descrição                  | Autor        | Data       |
-|--------|----------------------------|--------------|------------|
-| 1.0    | Elaboração do Plano de Trabalho | EXEMPLO      | 07/05/2025 |
-
+| Versão | Descrição                          | Autor                                       | Data     |
+|--------|------------------------------------|---------------------------------------------|-------   |
+|1.0     | Elaboração do Plano de Trabalho                  | Exemplo |xx/xx/xxxx|
+|1.0     | Criação do Design Thinking (Inspiração e Ideação)                | exemplo                 |xx/xx/xxxx|
+|1.0     | xxxxx    | exemplo                         |xx/xx/xxxx|
+|1.0     | Criação do Backlog          | exemplo                       |xx/xx/xxxx|
+|1.0     | Backlog do Sprint                  | exemplo    |xx/xx/xxxx|
 ---
 
 ## 1. INTRODUÇÃO
