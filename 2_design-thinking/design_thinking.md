@@ -24,15 +24,16 @@ Um aplicativo móvel chamado **ReConectar**, voltado à saúde mental, que atua 
 
 ## 3. Identificação Visual de Soluções Existentes
 
-### Aplicativo 1 – Nome
-![App 1](solucoes_existentes/app1.png)
-- Público-alvo:
-- Funcionalidade principal:
+### Aplicativo 1 – Opal – Screen Time for Focus
+![App 1](https://github.com/user-attachments/assets/a2c65fe0-0471-41a5-adf9-759b81019923)
 
-### Aplicativo 2 – Nome
-![App 2](solucoes_existentes/app2.png)
-- Público-alvo:
-- Funcionalidade principal:
+- Público-alvo: Estudantes, criativos, profissionais e qualquer pessoa que busca controlar a dependência digital.
+- Funcionalidade principal: Aplicativo que ajuda usuários a reduzirem o uso de apps distrativos, criando blocos de foco e monitoramento de atenção, promovendo a reconexão com o mundo real.
+
+### Aplicativo 2 – ScreenZen
+![App 2](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2f/96/cd/2f96cda5-ed32-dac6-335e-77a74e7504b5/268a6174-9be0-4932-b140-d4ee367cb1c0_9.png/600x0w.webp))
+- Público-alvo: Pessoas que desejam diminuir o uso inconsciente e impulsivo do smartphone e ter mais controle sobre o tempo digital.
+- Funcionalidade principal: ScreenZen é um aplicativo que ajuda os usuários a usar seus celulares de forma mais consciente. Ele insere uma pausa de reflexão antes da abertura de aplicativos viciantes (como redes sociais e IA), incentivando o uso intencional e reduzindo o comportamento automático.
 
 ### Aplicativo 3 – Nome
 ![App 3](solucoes_existentes/app3.png)
