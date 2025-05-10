@@ -56,10 +56,6 @@ Um aplicativo móvel chamado **ReConectar**, voltado à saúde mental, que atua 
 
 ### Persona 1 – Nome
 ![Persona 1](personas/persona1.png)
-- Idade:
-- Objetivo:
-- Comportamento:
-- Desafios:
 
 (Repita para Persona 2 e 3)
 
