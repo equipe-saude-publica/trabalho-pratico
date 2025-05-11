@@ -46,6 +46,7 @@
 |1.0     | Design Thinking (Golden Circle, Análise SWOT, Identificação Visual de soluções existentes e Quadro comparativo)                | Severino Souza                |03/05/2025|
 |1.0     | Criação de Personas   | Susie, Valdecir, Amanda                      |09/05/2025|
 |1.0     | Criação de User Stories        | Susie, Valdecir, Amanda                       |10/05/2025|
+|1.0     |  Backlog do produto        | Susie, Valdecir, Amanda, Severino                      |10/05/2025|
 |1.0     | Backlog do Sprint                  | Susie, Valdecir, Amanda, Severino    |11/05/2025|
 ---
 
