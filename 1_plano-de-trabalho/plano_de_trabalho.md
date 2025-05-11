@@ -117,54 +117,45 @@ Desenvolvimento de um aplicativo móvel que oferece suporte à saúde mental atr
 
 - Combinação de monitoramento digital com incentivo à criatividade
 - Comunidade interna para apoio mútuo
-- Proposta educativa e preventiva voltada ao uso consciente da tecnologia
+- Proposta educativa e preventiva, focada na conscientização sobre os impactos do uso excessivo de IA, oferecendo alternativas saudáveis de rotina, foco e expressão pessoal.
 
 ## 2.4 Resultados Esperados
 
 - MVP funcional disponível no GitHub
 - Interface intuitiva e adaptável
-- Relatórios personalizados sobre o uso de tecnologia
-- Redução do tempo de tela e do uso de I.A e aumento de bem-estar dos usuários
+- Geração de relatórios personalizados sobre padrões de uso de tecnologia e IA, com sugestões de melhoria e alertas de uso excessivo.
+- Redução do tempo de tela e da dependência de ferramentas de IA, aumento da percepção de bem-estar, foco, criatividade e equilíbrio digital entre os usuários.
 
 ---
-AJUSTAR DAQUI PRA BAIXO!!!!!
 
 # 3. METODOLOGIA DE PROJETO
 
 ## 3.1 Estrutura do Projeto
 
-**Fases do Projeto:**
-
-1. **Conceito/Ideia**
-   - Definição do problema e público-alvo
-   - Análise de concorrentes
-   - Definição de perfis de usuário
-
-2. **Levantamento de Requisitos**
-   - Criação e organização do backlog no GitHub
-   - Regras de negócio e critérios de aceitação
-
-3. **Projeto e Arquitetura**
-   - Modelagem de telas e fluxos
-   - Diagrama de classes e banco de dados
-   - Definição das funcionalidades do MVP
-
-4. **Projeto dos Casos de Teste**
-   - Elaboração de testes a partir das histórias de usuário
-   - Critérios de sucesso
-
-5. **Desenvolvimento do MVP**
-   - Codificação inicial em Flutter
-   - Testes com usuários e melhorias
+| Tarefas e Comunicação            | Data                                                                      |
+|----------------------------------|---------------------------------------------------------------------------|
+| Criação do Plano de Trabalho     | 06/05/2025                                                                |
+| Criação da Fase I - Inspiração   | 03/05/2025                                                                |  
+| Criação da Fase II - Ideação     | 03/05/2025                                                                | 
+| Criação de Personas              | 09/05/2025                                                                |
+| Criação de User Stories          | 10/05/2025                                                                |
+| Backlog do Produto               | 03/05/2025                                                                |
+| Backlog do Sprint                | 10/05/2025                                                                |
+| Reunião  Via meet                | 08/05/2025                                                                |
+| Reunião  Via meet                | 09/05/2025                                                                |
+| Reunião  Via meet                | 10/05/2025                                                                |
+| Comunicação Via WhatsApp         | 08/04 a 12/05                                                             |
 
 ## 3.2 Equipe de Projeto: Papéis e Responsabilidades
 
 | Integrante       | Papel                | Responsabilidades                                  |
 |------------------|----------------------|----------------------------------------------------|
-| João da Silva    | Product Owner        | Visão do produto, definição de funcionalidades     |
-| Maria Oliveira   | Scrum Master         | Facilitação das reuniões, remoção de impedimentos |
-| Pedro Costa      | Desenvolvedor        | Implementação do código                            |
-| Ana Souza        | Designer/Tester      | Prototipação e testes com usuários                 |
+| Severino Souza   | Elaboração do Plano de Trabalho        | Desenvolver, formatar e revisar o plano de trabalho    |
+| Susie, Valdecir, Amanda    | Definição de Personas         | Criar Personas usando a técnica PATHY, através da ferramenta HubSpot Make My Persona  |
+| Severino Souza    | Criar Design Thinking       | Desenvolver o Enquadramento do Problema e a exploração do mercado                              |
+| Susie, Valdecir, Amanda       | Criação de User Stories      | Criar Histórias do usuário e especificá-las no quadro projects dentro do github                |
+| Susie, Valdecir, Amanda, Severino       | Dailys e Ideias no Notion      |  Fazer o registro semanal da equipe e cada integrante trazer
+duas ou mais ideias iniciais de solução.             |
 
 ## 3.3 Backlog do Sprint
 
