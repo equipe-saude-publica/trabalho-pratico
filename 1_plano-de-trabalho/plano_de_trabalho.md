@@ -148,14 +148,13 @@ Desenvolvimento de um aplicativo móvel que oferece suporte à saúde mental atr
 
 ## 3.2 Equipe de Projeto: Papéis e Responsabilidades
 
-| Integrante       | Papel                | Responsabilidades                                  |
-|------------------|----------------------|----------------------------------------------------|
-| Severino Souza   | Elaboração do Plano de Trabalho        | Desenvolver, formatar e revisar o plano de trabalho    |
+| Integrante                 | Papel                | Responsabilidades                                                                                        |
+|----------------------------|----------------------|----------------------------------------------------------------------------------------------------------|
+| Severino Souza             | Elaboração do Plano de Trabalho        | Desenvolver, formatar e revisar o plano de trabalho                                    |
 | Susie, Valdecir, Amanda    | Definição de Personas         | Criar Personas usando a técnica PATHY, através da ferramenta HubSpot Make My Persona  |
-| Severino Souza    | Criar Design Thinking       | Desenvolver o Enquadramento do Problema e a exploração do mercado                              |
-| Susie, Valdecir, Amanda       | Criação de User Stories      | Criar Histórias do usuário e especificá-las no quadro projects dentro do github                |
-| Susie, Valdecir, Amanda, Severino       | Dailys e Ideias no Notion      |  Fazer o registro semanal da equipe e cada integrante trazer
-duas ou mais ideias iniciais de solução.             |
+| Severino Souza             | Criar Design Thinking       | Desenvolver o Enquadramento do Problema e a exploração do mercado                                |
+| Susie, Valdecir, Amanda    | Criação de User Stories      | Criar Histórias do usuário e especificá-las no quadro projects dentro do github     |
+| Susie, Valdecir, Amanda, Severino  | Dailys e Ideias no Notion      |  Fazer o registro semanal da equipe e cada integrante trazer  duas ou mais ideias iniciais de solução |
 
 ## 3.3 Backlog do Sprint
 
