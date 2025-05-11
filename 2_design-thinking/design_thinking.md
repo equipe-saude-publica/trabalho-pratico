@@ -57,10 +57,14 @@ Um aplicativo móvel chamado **ReConectar**, voltado à saúde mental, que atua 
 
 ## 5. Personas
 
-### Persona 1 – Nome
+### Persona 1 
 ![Persona 1](personas/persona1.png)
 
-(Repita para Persona 2 e 3)
+### Persona 2
+![Persona 2](personas/persona2.png)
+
+### Persona 3
+![Persona 3](personas/persona3.png)
 
 ---
 
