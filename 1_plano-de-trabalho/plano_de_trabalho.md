@@ -83,7 +83,7 @@ O uso excessivo da tecnologia tem gerado impactos negativos na saúde mental das
 
 ---
 
-# 2. INFORMAÇÕES GERAIS
+## 2. INFORMAÇÕES GERAIS
 
 ## 2.1 Escopo Geral
 
@@ -123,7 +123,7 @@ Desenvolvimento de um aplicativo móvel que oferece suporte à saúde mental atr
 - MVP funcional disponível no GitHub
 - Interface intuitiva e adaptável
 - Relatórios personalizados sobre o uso de tecnologia
-- Redução do tempo de tela e aumento de bem-estar dos usuários
+- Redução do tempo de tela e do uso de I.A e aumento de bem-estar dos usuários
 
 ---
 AJUSTAR DAQUI PRA BAIXO!!!!!
