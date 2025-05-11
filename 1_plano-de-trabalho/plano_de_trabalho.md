@@ -51,15 +51,16 @@
 
 # Índice
 ## 1. Introdução
-A saúde mental tem se tornado um tema cada vez mais discutido diante do ritmo acelerado da vida moderna e do crescente uso de tecnologias digitais, que embora ofereçam facilidades, também contribuem para quadros de ansiedade, procrastinação e bloqueios criativos. O presente projeto propõe o desenvolvimento de um aplicativo móvel voltado à saúde mental e ao bem-estar, oferecendo aos usuários um espaço de apoio e reconexão consigo mesmos por meio de atividades práticas, desafios criativos, monitoramento digital e incentivo à rotina saudável.
+A saúde mental tem se tornado um tema cada vez mais discutido diante do ritmo acelerado da vida moderna e do uso crescente de tecnologias digitais, especialmente das ferramentas de inteligência artificial (IA) e redes sociais. Apesar de facilitarem tarefas e oferecerem praticidade, essas tecnologias também têm contribuído para quadros de ansiedade, bloqueios criativos, apatia intelectual e perda de conexão com a realidade. O presente projeto propõe o desenvolvimento de um aplicativo móvel voltado à saúde mental e ao bem-estar, que funcione como um refúgio para aqueles que desejam reduzir sua dependência de IA e conteúdos digitais superficiais, promovendo reconexão com o mundo real, criatividade e autonomia emocional.
 
 ## 1.1 Objeto
 
-O projeto consiste no desenvolvimento de um aplicativo móvel chamado **ReConectar**, voltado à saúde mental, que atua como guia de rotina e recuperação da criatividade, através de atividades práticas, desafios, rede de apoio e monitoramento do comportamento digital.
+O projeto consiste no desenvolvimento de um aplicativo móvel chamado ReConectar, voltado à saúde mental, que atua como um guia de rotina e recuperação da criatividade. A solução se propõe a combater os efeitos do uso excessivo de IA por meio de atividades práticas, desafios criativos, rede de apoio entre usuários e monitoramento do comportamento digital.
 
 ## 1.2 Motivação, Justificativa e Oportunidade
 
-O uso excessivo da tecnologia tem gerado impactos negativos na saúde mental das pessoas, com perda de criatividade, foco e interesse por atividades reais. A proposta do ReConectar é criar uma solução acessível que ajude usuários a se reconectar com o mundo real e consigo mesmos, promovendo bem-estar, consciência digital e hábitos saudáveis.
+O uso desenfreado da tecnologia, em especial de ferramentas de inteligência artificial e algoritmos de recomendação, tem provocado impactos significativos na saúde mental das pessoas, como perda de criatividade, foco, capacidade crítica e autonomia. Muitos usuários se tornam passivos diante da avalanche de conteúdos gerados por IA, perdendo o hábito de criar, refletir e agir de forma consciente. A proposta do ReConectar é criar uma solução acessível que auxilie os usuários a se reconectarem consigo mesmos e com o mundo real, promovendo bem-estar, hábitos saudáveis, expressão criativa e consciência digital.
+
 
 ## 1.3 Caracterização do Projeto
 
