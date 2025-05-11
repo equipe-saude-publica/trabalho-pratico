@@ -4,7 +4,7 @@
 O Backlog do Sprint acompanha as tarefas distribuídas entre os integrantes do grupo, com base nas dailys e histórias do produto.
 
 ## Link para o quadro do Sprint no GitHub Projects
-👉 [Clique aqui para acessar](https://github.com/seu-repo/projects/2)
+👉 [Clique aqui para acessar](https://github.com/users/equipe-saude-publica/projects/3)
 
 ---
 ## Link das Dailys no Notion
