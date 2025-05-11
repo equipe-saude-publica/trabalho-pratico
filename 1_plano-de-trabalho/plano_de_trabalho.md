@@ -43,10 +43,10 @@
 | Versão | Descrição                          | Autor                                       | Data     |
 |--------|------------------------------------|---------------------------------------------|-------   |
 |1.0     | Elaboração do Plano de Trabalho                  | Severino Souza |05/05/2025|
-|1.0     | Criação do Design Thinking (Inspiração e Ideação)                | Severino Souza                |03/05/2025|
-|1.0     | xxxxx    | Nomes                         |xx/xx/xxxx|
-|1.0     | Criação do Backlog          | Nomes                       |xx/xx/xxxx|
-|1.0     | Backlog do Sprint                  | Nomes    |xx/xx/xxxx|
+|1.0     | Design Thinking (Golden Circle, Análise SWOT, Identificação Visual de soluções existentes e Quadro comparativo)                | Severino Souza                |03/05/2025|
+|1.0     | Criação de Personas   | Susie, Valdecir, Amanda                      |09/05/2025|
+|1.0     | Criação de User Stories        | Susie, Valdecir, Amanda                       |10/05/2025|
+|1.0     | Backlog do Sprint                  | Susie, Valdecir, Amanda, Severino    |11/05/2025|
 ---
 
 # Índice
