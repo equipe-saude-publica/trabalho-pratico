@@ -45,10 +45,13 @@ Um aplicativo móvel chamado **ReConectar**, voltado à saúde mental, que atua 
 
 ## 4. Quadro Comparativo
 
-| App             | Modelo de Negócio | Tecnologia | Público-alvo | Pontos Fortes | Pontos Fracos |
-|----------------|-------------------|------------|---------------|----------------|----------------|
-| App 1          | Freemium          | Android    | ...           | ...            | ...            |
-| App 2          | ...               | ...        | ...           | ...            | ...            |
+| Critérios / Soluções       | Solução A (Opal)                                      | Solução B (ScreenZen)                                  | Solução C (One Sec)                                    | Nossa Solução (ReConectar)                                                                 |
+|----------------------------|--------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------|---------------------------------------------------------------------------------------------|
+| **Modelo de negócio**      | Freemium (grátis com plano pago)                      | Gratuito                                                  | Freemium (versão gratuita e paga com extras)            | Gratuito, com possibilidade de expansão via recursos premium em futuras versões             |
+| **Tecnologia utilizada**   | Mobile (iOS/Android)                                   | Mobile (Android)                                          | Mobile (iOS/Android)                                     | Mobile (iOS/Android) com integração de monitoramento digital, atividades guiadas e comunidade |
+| **Público-alvo**           | Estudantes e profissionais que buscam foco e produtividade | Pessoas que querem reduzir o uso automático do celular | Usuários que desejam reduzir o uso impulsivo de redes sociais | Pessoas afetadas pelo uso excessivo de IA e tecnologia, buscando reconexão, criatividade e rotina |
+| **Pontos fortes**          | Interface bonita, sessões de foco, estatísticas precisas | Pausa antes do uso, reflexão rápida, fácil de usar       | Exercício de respiração, impacto comprovado, fácil integração | Atividades criativas, desafios semanais, rede de apoio, combate direto ao retrocesso causado por IA |
+| **Pontos fracos / limitações** | Foco limitado à produtividade; não estimula criatividade | Sem rotina estruturada ou atividades além da pausa       | Não estimula criatividade nem rotina; sem apoio emocional |Possível curva de aprendizado e esforço inicial do usuário para se adaptar à proposta do app, já que ele exige participação ativa em desafios e rotina, o que pode desmotivar usuários acostumados a apps mais passivos.     |
 
 ---
 
