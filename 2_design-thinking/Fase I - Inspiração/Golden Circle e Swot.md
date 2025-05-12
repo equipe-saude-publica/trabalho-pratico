@@ -12,6 +12,8 @@ Criando um aplicativo que ofereça:
 ### O quê?
 Um aplicativo móvel chamado ReConectar, voltado à saúde mental e ao raciocínio autônomo, que estimula o uso consciente da tecnologia e a redução da dependência de inteligência artificial. Ele oferece desafios criativos, rede de apoio, monitoramento do uso de IA e estratégias de reconexão com a própria capacidade de criação e reflexão.
 
+![Análise SWOT](https://github.com/user-attachments/assets/b7dc5c5b-ff8f-4c23-8ffc-e5756b9353d5)
+
 
 ## 2. Análise SWOT
 ![Análise SWOT](https://github.com/user-attachments/assets/b7dc5c5b-ff8f-4c23-8ffc-e5756b9353d5)
