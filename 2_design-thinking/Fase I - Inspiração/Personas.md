@@ -18,3 +18,9 @@ A seguir, apresentamos as personas envolvidas para guiar o design e as funcional
 ![Screenshot_20250511_235513_Drive](https://github.com/user-attachments/assets/ab8fab03-5316-4749-8830-f7fc8d61e14a)
 
 ![Screenshot_20250511_235515_Drive](https://github.com/user-attachments/assets/1dfd2362-936a-47e7-9caa-14c548e5e267)
+
+### Persona: Alicia - Universitária
+
+![Screenshot_20250511_235513_Drive](https://github.com/user-attachments/assets/ab8fab03-5316-4749-8830-f7fc8d61e14a)
+
+![Screenshot_20250511_235515_Drive](https://github.com/user-attachments/assets/1dfd2362-936a-47e7-9caa-14c548e5e267)
