@@ -14,8 +14,13 @@
 ### Aplicativo 3 – One Sec
 ![App 3](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/97/4e/6a/974e6a51-048b-28e8-6682-33f1dd2fdfb3/b2a72467-973c-4add-ba7c-db4afe164744_6.5inch-3.jpeg/600x0w.webp)
 - Público-alvo: Usuários que desejam diminuir o uso inconsciente de aplicativos, especialmente redes sociais, e desenvolver hábitos digitais mais saudáveis.
-
 - Funcionalidade principal: O One Sec é um aplicativo que introduz uma pausa reflexiva antes de abrir aplicativos potencialmente viciantes, como redes sociais. Ao detectar a tentativa de abertura de um app configurado, o One Sec solicita que o usuário realize uma breve respiração profunda, promovendo a conscientização sobre o uso impulsivo e ajudando a reduzir o tempo gasto em aplicativos que oferecem gratificação instantânea.
+
+
+### Aplicativo 4 – Stay Free
+![Stay Free app](https://github.com/user-attachments/assets/07cd469b-104e-4599-bab7-3fa98c7330be)
+- Público-alvo: Usuários que desejam diminuir o uso inconsciente de aplicativos no geral e de sites e desenvolver hábitos digitais mais saudáveis.
+- Funcionalidade principal: O Stay free é um aplicativo que pode bloquear aplicativos e sites , entender/visualizar o uso do seu dispositivo e se manter produtivo, seja definindo limites de uso , entrando no Modo Foco , gerenciando notificações e alertas ou relaxando antes de dormir com o Modo de Suspensão. Os gráficos ajudam a entender seus períodos de maior movimento ao longo do dia e a reduzir o uso quando você deveria estar se concentrando em outros compromissos.
 
 ---
 
