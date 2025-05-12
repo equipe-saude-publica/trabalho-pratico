@@ -16,5 +16,6 @@ Um aplicativo móvel chamado ReConectar, voltado à saúde mental e ao raciocín
 
 
 ## 2. Análise SWOT
-![Análise SWOT](https://github.com/user-attachments/assets/b7dc5c5b-ff8f-4c23-8ffc-e5756b9353d5)
+![Análise SWOT](https://github.com/user-attachments/assets/a4011400-7a42-45e7-af0a-61f82d0db945)
+
 
