@@ -1,6 +1,6 @@
 # 3. Identificação Visual de Soluções Existentes
 
-## Aplicativo 1 – Opal – Screen Time for Focus
+### Aplicativo 1 – Opal – Screen Time for Focus
 ![App 1](https://github.com/user-attachments/assets/a2c65fe0-0471-41a5-adf9-759b81019923)
 
 - Público-alvo: Estudantes, criativos, profissionais e qualquer pessoa que busca controlar a dependência digital.
