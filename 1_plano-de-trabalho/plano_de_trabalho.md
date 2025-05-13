@@ -42,8 +42,8 @@
 
 | Versão | Descrição                          | Autor                                       | Data     |
 |--------|------------------------------------|---------------------------------------------|-------   |
-|1.0     | Elaboração do Plano de Trabalho                  | Severino Souza e Susie Marques|05/05/2025 e 12/05/2025|
-|1.0     | Design Thinking (Golden Circle, Análise SWOT, Identificação Visual de soluções existentes e Quadro comparativo)                | Severino Souza e Susie Marques               |03/05/2025 e 12/05/2025|
+|1.0     | Elaboração do Plano de Trabalho                  | Severino Souza |05/05/2025 |
+|1.0     | Design Thinking (Golden Circle, Análise SWOT, Identificação Visual de soluções existentes e Quadro comparativo)                | Severino Souza (Elaborou tudo) e Susie Marques (Um ajustee nos apps e Quadro comparativo)            |03/05/2025 e 12/05/2025|
 |1.0     | Criação de Personas   | Susie, Valdecir, Amanda                      |09/05/2025|
 |1.0     | Criação de User Stories        | Susie, Valdecir, Amanda                       |10/05/2025|
 |1.0     |  Backlog do produto        | Susie, Valdecir, Amanda, Severino                      |10/05/2025|
