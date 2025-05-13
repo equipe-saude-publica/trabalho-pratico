@@ -125,7 +125,14 @@ Desenvolvimento de um aplicativo móvel que oferece suporte à saúde mental atr
 - MVP funcional disponível no GitHub
 - Interface intuitiva e adaptável
 - Geração de relatórios personalizados sobre padrões de uso de tecnologia e IA, com sugestões de melhoria e alertas de uso excessivo.
-- Redução do tempo de tela e da dependência de ferramentas de IA, aumento da percepção de bem-estar, foco, criatividade e equilíbrio digital entre os usuários.
+- Interface simples, acessível e adaptada a diferentes perfis de usuário.  
+- Redução do uso excessivo de tecnologia e aumento da percepção de bem-estar.  
+- Relatórios personalizados com alertas de uso digital e sugestões práticas de reconexão.  
+- Produção contínua de conteúdos por especialistas em formação dentro do app.  
+- Engajamento progressivo dos usuários com trilhas completas e evolução de perfil.  
+- Formação de uma comunidade interna acolhedora com apoio entre usuários.  
+- Canal reservado de conversa com especialistas funcionando de forma ética e moderada.  
+- Base estruturada para futuras parcerias com instituições acadêmicas e de saúde mental.
 
 ---
 
