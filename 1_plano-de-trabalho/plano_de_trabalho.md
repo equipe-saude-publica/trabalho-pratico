@@ -151,7 +151,7 @@ Desenvolvimento de um aplicativo móvel que oferece suporte à saúde mental atr
 
 | Integrante                 | Papel                | Responsabilidades                                                                                        |
 |----------------------------|----------------------|----------------------------------------------------------------------------------------------------------|
-| Severino Souza  e Susie Marques           | Elaboração do Plano de Trabalho        | Desenvolver, formatar e revisar o plano de trabalho                                    |
+| Severino Souza           | Elaboração do Plano de Trabalho        | Desenvolver e Elaborar todo o plano de trabalho                                    |
 | Susie, Valdecir, Amanda    | Definição de Personas         | Criar Personas usando a técnica PATHY, através da ferramenta HubSpot Make My Persona  |
 | Severino Souza e Susie Marques            | Criar Design Thinking       | Desenvolver o Enquadramento do Problema e a exploração do mercado                                |
 | Susie, Valdecir, Amanda    | Criação de User Stories      | Criar Histórias do usuário e especificá-las no quadro projects dentro do github     |
