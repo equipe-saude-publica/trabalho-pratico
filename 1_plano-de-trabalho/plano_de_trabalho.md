@@ -54,7 +54,7 @@
 ## 1. Introdução
 A saúde mental tem se tornado um tema cada vez mais discutido diante do ritmo acelerado da vida moderna e do uso crescente de tecnologias digitais, especialmente das ferramentas de inteligência artificial (IA) e redes sociais. Apesar de facilitarem tarefas e oferecerem praticidade, essas tecnologias também têm contribuído para quadros de ansiedade, bloqueios criativos, apatia intelectual e perda de conexão com a realidade. O presente projeto propõe o desenvolvimento de um aplicativo móvel voltado à saúde mental e ao bem-estar, que funcione como um refúgio para aqueles que desejam reduzir sua dependência de IA e conteúdos digitais superficiais, promovendo reconexão com o mundo real, criatividade e autonomia emocional.
 
-## 1.1 Objeto
+## 1.1 Objetivo
 
 O projeto consiste no desenvolvimento de um aplicativo móvel chamado ReConectar, voltado à saúde mental, que atua como um guia de rotina e recuperação da criatividade. A solução se propõe a combater os efeitos do uso excessivo de IA por meio de atividades práticas, desafios criativos, rede de apoio entre usuários e monitoramento do comportamento digital.
 
