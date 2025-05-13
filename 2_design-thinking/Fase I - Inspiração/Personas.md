@@ -24,3 +24,6 @@ A seguir, apresentamos as personas envolvidas para guiar o design e as funcional
 ![alicia-p1](https://github.com/user-attachments/assets/ecb8eb68-397b-460d-88cf-aaf7613dec17)
 
 ![alicia-p2](https://github.com/user-attachments/assets/e709b760-b636-405f-83ee-634fa206d1f7)
+
+### Persona: Vanessa - Administradora
+![Captura de Tela 2025-05-12 às 20 14 19](https://github.com/user-attachments/assets/2e224daa-12c7-4d7f-886a-e47048ecfb60)
