@@ -153,7 +153,7 @@ Desenvolvimento de um aplicativo móvel que oferece suporte à saúde mental atr
 |----------------------------|----------------------|----------------------------------------------------------------------------------------------------------|
 | Severino Souza           | Elaboração do Plano de Trabalho        | Desenvolver e Elaborar todo o plano de trabalho                                    |
 | Susie, Valdecir, Amanda    | Definição de Personas         | Criar Personas usando a técnica PATHY, através da ferramenta HubSpot Make My Persona  |
-| Severino Souza e Susie Marques            | Criar Design Thinking       | Desenvolver o Enquadramento do Problema e a exploração do mercado                                |
+| Severino Souza (Desenvolveu tudo) / Susie Marques (Fez um Ajuste)          | Criar Design Thinking       | Desenvolver o Enquadramento do Problema e a exploração do mercado                                |
 | Susie, Valdecir, Amanda    | Criação de User Stories      | Criar Histórias do usuário e especificá-las no quadro projects dentro do github     |
 | Susie, Valdecir, Amanda, Severino  | Dailys e Ideias no Notion      |  Fazer o registro semanal da equipe e cada integrante trazer  duas ou mais ideias iniciais de solução |
 
