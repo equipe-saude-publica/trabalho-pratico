@@ -135,7 +135,7 @@ Desenvolvimento de um aplicativo móvel que oferece suporte à saúde mental atr
 
 | Tarefas e Comunicação            | Data                                                                      |
 |----------------------------------|---------------------------------------------------------------------------|
-| Criação do Plano de Trabalho     | 06/05/2025                                                                |
+| Criação do Plano de Trabalho     | 05/05/2025                                                                |
 | Criação da Fase I - Inspiração   | 03/05/2025                                                                |  
 | Criação da Fase II - Ideação     | 03/05/2025                                                                | 
 | Criação de Personas              | 09/05/2025                                                                |
