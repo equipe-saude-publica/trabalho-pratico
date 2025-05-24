@@ -12,7 +12,7 @@ Bem-vindo ao repositório do trabalho prático da disciplina de Engenharia de So
 - [🧩 Design Thinking](#-design-thinking)
 - [📝 Backlog do Produto](#-backlog-do-produto)
 - [📆 Backlog do Sprint](#-backlog-do-sprint)
-- [🧾 Reuniões e Atas](#-reuniões-e-atas)
+- [🧾 Reuniões ](#-reuniões)
 - [🎥 Apresentação](#-apresentação)
 - [👥 Equipe](#-equipe)
 
@@ -28,7 +28,7 @@ Documentação inicial do projeto, incluindo a definição de papéis, escopo, c
 
 ## 🧩 [Design Thinking](2_design-thinking)
 
-Exploração e compreensão do problema com apoio de ferramentas de design. Contém personas, jornada do usuário e análise de empatia.
+Exploração e compreensão do problema com apoio de ferramentas de design. Contém personas, jornada do usuário, entre outros.
 
 📁 Acesse a pasta: [`2_design-thinking`](2_design-thinking)
 
@@ -36,7 +36,7 @@ Exploração e compreensão do problema com apoio de ferramentas de design. Cont
 
 ## 📝 [Backlog do Produto](3_backlog-do-produto)
 
-Lista de funcionalidades desejadas, épicos, histórias de usuário e critérios de aceite definidos para o produto.
+Lista de funcionalidades desejadas, histórias de usuário e critérios de aceitação definidos para o produto.
 
 📁 Acesse a pasta: [`3_backlog-do-produto`](3_backlog-do-produto)
 
@@ -50,7 +50,7 @@ Planejamento dos sprints, tarefas, priorizações e métricas de acompanhamento.
 
 ---
 
-## 🧾 [Reuniões e Atas](Reuniões)
+## 🧾 [Reuniões](Reuniões)
 
 Registros das reuniões da equipe, decisões tomadas e evolução do projeto.
 
@@ -58,11 +58,11 @@ Registros das reuniões da equipe, decisões tomadas e evolução do projeto.
 
 ---
 
-## 🎥 Apresentação
+## 🎥 Apresentação 1
 
-Link para a apresentação oficial do projeto no Canva:
+Link para a apresentação 1 oficial do projeto no Canva:
 
-[🔗 Acessar Apresentação](https://www.canva.com/design/DAGnPecSDRQ/iWoe7EI21W3wMrb5n-RF9A/edit?utm_content=DAGnPecSDRQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[🔗 Acessar Apresentação 1](https://www.canva.com/design/DAGnPecSDRQ/iWoe7EI21W3wMrb5n-RF9A/edit?utm_content=DAGnPecSDRQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
 
