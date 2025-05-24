@@ -93,7 +93,7 @@ Desenvolvimento de um aplicativo móvel que oferece suporte à saúde mental atr
 
 ## 2.1.1 Escopo Específico
 
-- Sugestões de atividades criativas e de racioncíneo
+- Sugestões de atividades criativas e de raciocínio
 - Sistema de rotina com desafios semanais
 - Espaço comunitário com interações entre usuários
 - Relatórios de uso digital e alertas personalizados
@@ -102,7 +102,7 @@ Desenvolvimento de um aplicativo móvel que oferece suporte à saúde mental atr
 ## 2.1.2 Escopo Negativo
 
 - O app não terá integração com redes sociais externas
-- Não incluirá funcionalidades de inteligência artificial preditiva
+- Não serão implementadas funcionalidades de inteligência artificial voltadas à previsão de comportamentos, estados emocionais ou padrões de uso com base em dados históricos dos usuários
 - Não será desenvolvida uma versão web do sistema
 
 ## 2.2 Ambiente de Desenvolvimento
@@ -149,9 +149,9 @@ Desenvolvimento de um aplicativo móvel que oferece suporte à saúde mental atr
 | Criação de User Stories          | 10/05/2025                                                                |
 | Backlog do Produto               | 03/05/2025                                                                |
 | Backlog do Sprint                | 10/05/2025                                                                |
-| Reunião  Via meet                | 08/05/2025                                                                |
-| Reunião  Via meet                | 09/05/2025                                                                |
-| Reunião  Via meet                | 10/05/2025                                                                |
+| Reunião  Via Google meet         | 08/05/2025                                                                |
+| Reunião  Via Google meet         | 09/05/2025                                                                |
+| Reunião  Via Google meet         | 10/05/2025                                                                |
 | Comunicação Via WhatsApp         | 08/04 a 12/05                                                             |
 
 ## 3.2 Equipe de Projeto: Papéis e Responsabilidades
