@@ -2,7 +2,7 @@
 
 Bem-vindo ao repositório do trabalho prático da disciplina de Engenharia de Software. Este projeto tem como objetivo desenvolver o **ReConectar**, um aplicativo de saúde mental que promove a redução do uso excessivo e Inteligência Artificial, aumento do bem-estar e equilíbrio no uso da tecnologia.
 
-🎯 **Objetivo:** Criar uma solução tecnológica que incentive práticas saudáveis, atividades criativas e conexão humana, reduzindo o uso excessivo Inteligência Artificial.
+🎯 **Objetivo:** Criar uma solução tecnológica que incentive práticas saudáveis, atividades criativas e conexão humana, reduzindo o uso excessivo de Inteligência Artificial.
 
 ---
 
