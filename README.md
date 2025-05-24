@@ -68,21 +68,10 @@ Link para a apresentação oficial do projeto no Canva:
 
 ## 👥 Equipe
 
-| Integrante | Função |
-|------------|--------|
-| Nome 1     | Product Owner |
-| Nome 2     | Scrum Master |
-| Nome 3     | Desenvolvedor |
-| Nome 4     | Designer |
-<!-- Adicione todos os membros da equipe -->
-
----
-
-> 📌 **Dica final:** mantenha cada pasta organizada com seus próprios arquivos `README.md` internos, para guiar quem for navegar diretamente nelas.
-
-
-
-
-# trabalho-pratico
-
-Link da apresentação: https://www.canva.com/design/DAGnPecSDRQ/iWoe7EI21W3wMrb5n-RF9A/edit?utm_content=DAGnPecSDRQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
+| Integrante       | Função           |
+|------------------|------------------|
+| Andrey Rodrigues | Product Owner    |
+| Susie Marques    | Scrum Master     |
+| Severino Souza   | Dev Mobile       |
+| Amanda Silva     | Dev Backend      |
+| Valdecir Reis    | QA/Testes        |
