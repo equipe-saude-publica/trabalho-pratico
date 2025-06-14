@@ -2,7 +2,7 @@
 
 ## Arquitetura em Camadas
 
-### ✅ Identificação
+### Identificação
 
 O padrão arquitetural escolhido para o desenvolvimento do sistema de apoio à saúde mental foi a **Arquitetura em Camadas**.
 
@@ -10,15 +10,15 @@ Esse padrão organiza a estrutura do sistema em camadas funcionais bem definidas
 
 Abaixo, apresentamos uma tabela detalhada com as **funcionalidades e módulos do nosso sistema**, organizados por camada. Isso oferece uma visão clara de como a arquitetura foi pensada para refletir a estrutura do projeto:
 
-➡️ Veja a tabela completa logo abaixo.
+➡ Veja a tabela completa logo abaixo.
 
-# 🧱 Tabela de Funcionalidades por Camada – Arquitetura em Camadas
+# Tabela de Funcionalidades por Camada – Arquitetura em Camadas
 
 Este documento apresenta as principais funcionalidades do sistema divididas segundo a Arquitetura em Camadas.
 
 ---
 
-## 🎨 Camada de Apresentação
+## Camada de Apresentação
 
 | **Funcionalidade / Módulo**                              | **Descrição**                                                                 |
 |----------------------------------------------------------|--------------------------------------------------------------------------------|
@@ -53,7 +53,7 @@ Este documento apresenta as principais funcionalidades do sistema divididas segu
 | Dados de configuração                                     | Configurações personalizadas do usuário armazenadas localmente/remotamente    |
 
 
-### 🧠 Justificativa
+### Justificativa
 
 A escolha pela arquitetura em camadas está alinhada com os objetivos e características do nosso projeto:
 
@@ -62,7 +62,7 @@ A escolha pela arquitetura em camadas está alinhada com os objetivos e caracter
 - **Requisitos não funcionais:** Priorizamos a **manutenibilidade**, **facilidade de desenvolvimento** e a **organização do código**, características bem atendidas por este padrão arquitetural.
 - **Curva de aprendizado:** A equipe tem conhecimento básico de engenharia de software, e a arquitetura em camadas permite uma implementação mais rápida e compreensível por todos os membros.
 
-### 🏗️ Visão Geral da Estrutura
+### Visão Geral da Estrutura
 
 Abaixo está um resumo da divisão das camadas que será adotada no sistema:
 
@@ -74,6 +74,6 @@ Abaixo está um resumo da divisão das camadas que será adotada no sistema:
 
 Cada camada se comunica apenas com a camada diretamente abaixo dela, garantindo **coesão interna e baixo acoplamento**.
 
-### ✅ Conclusão
+### Conclusão
 
 A arquitetura em camadas proporciona uma base sólida para o desenvolvimento do nosso sistema, sendo adequada ao nosso escopo, conhecimento técnico atual e prazos disponíveis. Dessa forma, ela foi escolhida como o modelo estrutural principal para guiar as decisões da arquitetura de software nesta fase do trabalho.
