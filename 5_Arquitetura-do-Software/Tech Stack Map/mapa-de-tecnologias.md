@@ -6,7 +6,7 @@ As tecnologias estão organizadas por **camada ou propósito**.
 
 ---
 
-## 🧱 Visual do Mapa
+## Visual do Mapa
 
 > As tecnologias estão agrupadas por:
 > - Frontend
