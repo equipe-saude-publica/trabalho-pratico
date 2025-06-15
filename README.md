@@ -12,7 +12,7 @@ Bem-vindo ao repositório do trabalho prático da disciplina de Engenharia de So
 - [🧩 Design Thinking](#-design-thinking)
 - [📝 Backlog do Produto](#-backlog-do-produto)
 - [📆 Backlog do Sprint](#-backlog-do-sprint)
-- [🧱 Arquitetura de Software](./arquitetura-software/)
+- [🧱 Arquitetura de Software](#-arquitetura-do-software)
 - [🧾 Reuniões ](#-reuniões)
 - [🎥 Apresentações](#-apresentações)
 - [👥 Equipe](#-equipe)
@@ -50,11 +50,11 @@ Planejamento dos sprints, tarefas, priorizações e métricas de acompanhamento.
 📁 Acesse a pasta: [`4_backlog-do-sprint`](4_backlog-do-sprint)
 
 ---
-## 🧱 Arquitetura de Software
+## 🧱 Arquitetura do Software
 
 Documentação da segunda fase do projeto, contendo o padrão arquitetural adotado, mapa de tecnologias utilizadas, diagramas (modelo C4) e rastreabilidade com as histórias de usuário.
 
-📂 Acesse a pasta: [Arquitetura de Software](./arquitetura-software)
+📂 Acesse a pasta: [`5 Arquitetura-do-Software`](5_arquitetura-do-software)
 
 ---
 ## 🧾 [Reuniões](Reuniões)
