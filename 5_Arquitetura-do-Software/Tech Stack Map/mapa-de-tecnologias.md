@@ -15,7 +15,8 @@ As tecnologias estão organizadas por **camada ou propósito**.
 > - Autenticação
 > - Notificações
 > - Monitoramento
-> - Deploys
+> - Deploy
+> - Infraestrutura
 
 ![Mapa de Tecnologias – Projeto Reconectar](https://github.com/user-attachments/assets/0a0f19c6-b480-4f2d-ac03-d2cedd4ac0b0)
 
