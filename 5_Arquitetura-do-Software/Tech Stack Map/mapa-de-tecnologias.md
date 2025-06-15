@@ -17,7 +17,8 @@ As tecnologias estão organizadas por **camada ou propósito**.
 > - Monitoramento
 > - Deploys
 
-![Mapa de Tecnologias – Projeto Reconectar](https://github.com/user-attachments/assets/6f9c4d74-5be0-4fbb-aaa8-602b7d235edb)
+![Mapa de Tecnologias – Projeto Reconectar](https://github.com/user-attachments/assets/0a0f19c6-b480-4f2d-ac03-d2cedd4ac0b0)
+
 
 
 ---
