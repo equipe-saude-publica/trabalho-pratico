@@ -22,4 +22,4 @@ As tecnologias estão organizadas por **camada ou propósito**.
 
 ---
 
-📄 Consulte também a [Tabela de Tecnologias](tabela-tecnologias.md) com as justificativas detalhadas.
+📄 Consulte também a [Tabela de Tecnologias](tabela-de-tecnologias.md) com as justificativas detalhadas.
