@@ -1,6 +1,6 @@
 # 🧩 Diagrama de Componentes
 
-O Diagrama de Componentes mostra os *módulos internos de um container específico.
+O Diagrama de Componentes mostra os módulos internos de um container específico.
 
 Aqui são definidos:
 - Serviços
