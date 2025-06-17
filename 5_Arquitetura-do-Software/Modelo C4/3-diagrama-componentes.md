@@ -12,7 +12,8 @@ Aqui são definidos:
 
 ## 📌 Diagrama
 
-![Diagrama de Componentes](https://github.com/user-attachments/assets/8a397a34-5b42-460d-bbfe-0ad541563529)
+![Diagrama de Componentes](https://github.com/user-attachments/assets/c20d5bd0-116a-46bd-b662-ffb5abd61d3a)
+
 
 ---
 
