@@ -10,7 +10,6 @@ Este diagrama mostra a *estrutura interna do sistema no nível mais detalhado*, 
 
 ## 📌 Diagrama
 
-![diagrama de codigo](https://github.com/user-attachments/assets/a70ae4fc-1d4d-4950-91e3-72c9586ea9e3)
-
+![diagrama de codigo](https://github.com/user-attachments/assets/2f18fc4a-4e8a-4516-8c0f-9108f17c89f0)
 ---
 
