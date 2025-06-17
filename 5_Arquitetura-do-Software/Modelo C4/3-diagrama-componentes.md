@@ -12,7 +12,7 @@ Aqui são definidos:
 
 ## 📌 Diagrama
 
-![Diagrama de Componentes](https://github.com/user-attachments/assets/d9f7af77-089c-462a-a33e-b0abb21337f9)
+![Diagrama de Componentes](https://github.com/user-attachments/assets/8a397a34-5b42-460d-bbfe-0ad541563529)
 
 ---
 
