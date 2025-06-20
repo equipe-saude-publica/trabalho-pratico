@@ -4,11 +4,6 @@ Bem-vindo ao repositório do trabalho prático da disciplina de Engenharia de So
 
 🎯 **Objetivo:** Criar uma solução tecnológica que incentive práticas saudáveis, atividades criativas e conexão humana, reduzindo o uso excessivo de Inteligência Artificial.
 
----
-
-## 📅 Etapa atual 
-
-📁 Acesse a pasta: [`6_Teste e Validacoes`](6_Testes-e-Validacoes)  
 
 ---
 
