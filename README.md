@@ -8,7 +8,7 @@ Bem-vindo ao repositório do trabalho prático da disciplina de Engenharia de So
 
 ## 📅 Etapa atual 
 
-- [📌 Teste e Valiações](#-6_Testes-e-Validacoes)  
+📁 Acesse a pasta: [`Teste e Valiações`](6_Testes-e-Validacoes)  
 
 ## 📚 Sumário
 
