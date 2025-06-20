@@ -10,6 +10,8 @@ Bem-vindo ao repositório do trabalho prático da disciplina de Engenharia de So
 
 📁 Acesse a pasta: [`6_Teste e Validacoes`](6_Testes-e-Validacoes)  
 
+---
+
 ## 📚 Sumário
 
 - [📌 Plano de Trabalho](#-plano-de-trabalho)
