@@ -52,7 +52,7 @@ Planejamento dos sprints, tarefas, priorizações e métricas de acompanhamento.
 📁 Acesse a pasta: [`4_backlog-do-sprint`](4_backlog-do-sprint)
 
 ---
-## 🧱 Arquitetura do Software
+## 🧱 [Arquitetura do Software](5_Arquitetura-do-Software)
 
 Documentação da segunda fase do projeto, contendo o padrão arquitetural adotado, mapa de tecnologias utilizadas, diagramas (modelo C4) e rastreabilidade com as histórias de usuário.
 
@@ -60,7 +60,7 @@ Documentação da segunda fase do projeto, contendo o padrão arquitetural adota
 
 ---
 
-## ⚙️ Testes e Validações
+## ⚙️ [Testes e Validações](6_Testes-e-Validacoes)
 
 Nesta etapa, a equipe revisa os erros apontados na inspeção de requisitos, justifica as correções ou manutenções realizadas e planeja os testes com base em classes de equivalência.  
 
