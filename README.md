@@ -14,7 +14,7 @@ Bem-vindo ao repositório do trabalho prático da disciplina de Engenharia de So
 - [📝 Backlog do Produto](#-backlog-do-produto)
 - [📆 Backlog do Sprint](#-backlog-do-sprint)
 - [🧱 Arquitetura do Software](#-arquitetura-do-software)
-- [⚙️ Testes e Validações](#testes-e-validações)
+- [⚙️ Testes e Validações](#-testes-e-validações)
 - [🧾 Reuniões ](#-reuniões)
 - [🎥 Apresentações](#-apresentações)
 - [👥 Equipe](#-equipe)
