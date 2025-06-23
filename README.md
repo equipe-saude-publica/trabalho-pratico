@@ -14,6 +14,7 @@ Bem-vindo ao repositório do trabalho prático da disciplina de Engenharia de So
 - [📝 Backlog do Produto](#-backlog-do-produto)
 - [📆 Backlog do Sprint](#-backlog-do-sprint)
 - [🧱 Arquitetura do Software](#-arquitetura-do-software)
+- [⚙️ Testes e Validações](#-testes-e-validacoes) 
 - [🧾 Reuniões ](#-reuniões)
 - [🎥 Apresentações](#-apresentações)
 - [👥 Equipe](#-equipe)
@@ -58,6 +59,15 @@ Documentação da segunda fase do projeto, contendo o padrão arquitetural adota
 📂 Acesse a pasta: [`5 Arquitetura-do-Software`](5_Arquitetura-do-Software)
 
 ---
+
+## ⚙️ Testes e Validações
+
+Nesta etapa, a equipe revisa os erros apontados na inspeção de requisitos, justifica as correções ou manutenções realizadas e planeja os testes com base em classes de equivalência.  
+
+📂 Acesse a pasta: [`6 Testes-e-Validacoes`](6_Testes-e-Validacoes)
+
+---
+
 ## 🧾 [Reuniões](Reuniões)
 
 Registros das reuniões da equipe, decisões tomadas e evolução do projeto.
