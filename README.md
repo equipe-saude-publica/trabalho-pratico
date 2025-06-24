@@ -80,7 +80,7 @@ Registros das reuniões da equipe, decisões tomadas e evolução do projeto.
 
 Link para a apresentação da primeira parte do projeto oficial no Canva:
 
-[🔗 Acessar Apresentação ]([https://www.canva.com/design/DAGnPecSDRQ/iWoe7EI21W3wMrb5n-RF9A/edit?utm_content=DAGnPecSDRQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGrMpgw0Co/yc6w0uGEIFz7nExbYUt9gQ/view?utm_content=DAGrMpgw0Co&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hff668ff9ca))
+[🔗 Acessar Apresentação ](https://www.canva.com/design/DAGrMpgw0Co/yc6w0uGEIFz7nExbYUt9gQ/view?utm_content=DAGrMpgw0Co&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hff668ff9ca)
 
 ---
 
