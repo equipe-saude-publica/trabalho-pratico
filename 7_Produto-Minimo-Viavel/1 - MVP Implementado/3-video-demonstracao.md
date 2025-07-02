@@ -15,4 +15,3 @@ Este vídeo demonstra a implementação do **Mínimo Produto Viável (MVP)** do 
 
 ---
 
-> 📌 Caso o link esteja inacessível, certifique-se de que a permissão do vídeo esteja definida como "Qualquer pessoa com o link pode visualizar".
