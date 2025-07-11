@@ -16,4 +16,4 @@ Esta seção apresenta capturas de tela da implementação do Mínimo Produto Vi
 
 <img width="401" height="688" alt="Captura de tela 2025-07-11 103120" src="https://github.com/user-attachments/assets/9262fa12-cac5-491b-a03f-e8eaef268eb0" />
 
-<img width="398" height="687" alt="Captura de tela 2025-07-11 103136" src="https://github.com/user-attachments/assets/cb027756-b1c8-4378-b3e1-6c5a8f8c0ca7" />
+<img width="404" height="689" alt="Captura de tela 2025-07-11 115548" src="https://github.com/user-attachments/assets/7f2c3b9b-8a21-4c51-a89a-dd033c39c714" />
