@@ -2,7 +2,7 @@
 
 Esta seção apresenta capturas de tela da implementação do Mínimo Produto Viável (MVP) do aplicativo ReConectar, com o objetivo de ilustrar visualmente os principais aspectos do projeto.
 
-**Telas de Loguin e Cadastro**
+**Telas de Cadastro e Loguin**
 ---
 
 <img width="395" height="681" alt="Captura de tela 2025-07-11 103033" src="https://github.com/user-attachments/assets/ad38ebe3-2a96-4c40-be48-0f323b92198e" />
