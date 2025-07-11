@@ -5,7 +5,7 @@ O MVP funcional do aplicativo **ReConectar** foi implementado utilizando a plata
 Você pode acessar e testar o aplicativo clicando no link abaixo:
 
 > 🔗 **Acesse o app aqui:**  
-> [https://x.thunkable.com/projectPage/xxxxxxxx](https://x.thunkable.com/projectPage/xxxxxxxx)
+> (https://x.thunkable.com/copy/618b4b70758a5181fc13ed87182cdeb6)
 
 ---
 
