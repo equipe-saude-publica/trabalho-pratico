@@ -15,6 +15,7 @@ Bem-vindo ao repositório do trabalho prático da disciplina de Engenharia de So
 - [📆 Backlog do Sprint](#-backlog-do-sprint)
 - [🧱 Arquitetura do Software](#-arquitetura-do-software)
 - [⚙️ Testes e Validações](#️-testes-e-validações)
+- [⚙️ Produto Minimo Viavel](#️-produto-minimo-viavel)
 - [🧾 Reuniões ](#-reuniões)
 - [🎥 Apresentações](#-apresentações)
 - [👥 Equipe](#-equipe)
@@ -65,6 +66,12 @@ Documentação da segunda fase do projeto, contendo o padrão arquitetural adota
 Nesta etapa, a equipe revisa os erros apontados na inspeção de requisitos, justifica as correções ou manutenções realizadas e planeja os testes com base em classes de equivalência.  
 
 📂 Acesse a pasta: [`6 Testes-e-Validacoes`](6_Testes-e-Validacoes)
+
+## ⚙️ [Produto Minimo Viavel](7_Produto-Minimo-Viavel)
+
+Nesta etapa, foi desenvolvido um MVP (Produto Mínimo Viável) navegável utilizando a plataforma Thunkable, com foco na representação visual das principais funcionalidades propostas no projeto.  
+
+📂 Acesse a pasta: [`7_Produto-Minimo-Viavel`](7_Produto-Minimo-Viavel)
 
 ---
 
