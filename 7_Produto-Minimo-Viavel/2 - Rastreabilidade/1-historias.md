@@ -13,7 +13,6 @@ Este documento apresenta a rastreabilidade entre as **histórias de usuário** d
 | **US7** | Como estudante que depende de IA para interpretar textos, quero um aplicativo que bloqueie temporariamente o uso de ferramentas como o ChatGPT. | Na **Tela de Perfil/Relatório**, há uma área visual onde são exibidos nomes de ferramentas bloqueadas (como ChatGPT e Copilot), com indicação de tempo restante para desbloqueio. A função é representada visualmente como um recurso de monitoramento digital. |
 | **US8** | Como usuária que já tentou limitar o uso de IA com outros apps, quero ver meu progresso de forma mais prática e comportamental. | A **Tela de Desafios** mostra desafios em andamento e concluídos com **indicadores visuais de progresso**, como barras e ícones. |
 | **US10** | Como usuária, quero ter conquistas semanais para que eu tenha motivação, evite o uso de IA sem necessidade e senso de vitória | Implementado de forma visual na **Tela de Perfil**, com ícones e textos simulando conquistas semanais.|
-| **US12** | Como usuário, quero personalizar meus horários de detox digital. | Representado na **Tela de Perfil**, onde são exibidos blocos de horários configuráveis para cada ferramenta de IA. A customização é apenas visual no MVP, mas comunica a intenção de controle de rotina. |
 | **US15** | Como usuário, quero acessar um feed de eventos culturais e atividades presenciais na minha cidade. | Implementado na **Tela de Eventos**, com um **feed visual de cards** contendo nome, local e benefícios de eventos como oficinas, feiras e cursos.|
 
 ---
