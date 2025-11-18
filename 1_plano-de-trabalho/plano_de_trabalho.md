@@ -116,7 +116,6 @@ Desenvolvimento de um aplicativo móvel que oferece suporte à saúde mental atr
 
 ## 2.3 Características Inovadoras do Projeto
 
-- Combinação de monitoramento digital com incentivo à criatividade
 - Comunidade interna para apoio mútuo
 - Proposta educativa e preventiva, focada na conscientização sobre os impactos do uso excessivo de IA, oferecendo alternativas saudáveis de rotina, foco e expressão pessoal.
 
